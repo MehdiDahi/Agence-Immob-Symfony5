@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/Type/RecaptchaSubmitType.php</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/RecaptchaBundle.php</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/Constraints/RecaptchaValidator.php</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/templates/property/show.html.twig</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/DependencyInjection/Configuration.php</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/.env</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/config/packages/recaptcha.yaml</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/Resources/views/fields.html.twig</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/DependencyInjection/RecaptchaExtension.php</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/Resources/config/services.yml</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/lib/RecaptchaBundle/Constraints/Recaptcha.php</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/src/Form/ContactType.php</file>
+            <file>file:/opt/lampp/htdocs/allsymfony/symfony5.1/templates/property/index.html.twig</file>
+        </group>
+    </open-files>
+</project-private>

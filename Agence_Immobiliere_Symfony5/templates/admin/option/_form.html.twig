@@ -1,0 +1,5 @@
+{{ form_start(form) }}
+{{ form_rest(form) }}
+<button class="btn btn-primary">{{ button | default('Enregistrer') }}</button>
+<a class="btn btn-danger" href="{{ path('admin.option.index') }}">Annuler</a>
+{{ form_end(form) }}
